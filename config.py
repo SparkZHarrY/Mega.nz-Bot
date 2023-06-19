@@ -15,4 +15,4 @@ class Config(object):
     TG_MAX_SIZE = 2040108421
     # Mega User Account
     MEGA_EMAIL = os.environ.get("hari1213sl+@gmail.com")
-    MEGA_PASSWORD = os.environ.get("hari1213sl+@gmail.com")
+    MEGA_PASSWORD = os.environ.get("Towcit$7sK4s")
